@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi there 👋, <br><br>I'm a Computer Science graduate from Rutgers, The State University of New Jersey, with a strong background in programming languages like Python, Java, SQL, Bash, R, C, and HTML. My experience includes providing technical support at the Rutgers Office of Information & Technology Help Desk and working on projects such as predictive modeling with neural networks and data manipulation tools. I'm passionate about problem-solving, data analysis, and continuous learning. I'm fluent in English and Arabic, and I'm excited about the opportunity to contribute my skills and enthusiasm to Efficiency Next as a Software Development Intern. <br><br> Feel free to connect with me and share ideas about similar projects!
+Hi there 👋, <br><br>I'm a Computer Science graduate from Rutgers, The State University of New Jersey, with a strong background in programming languages like Python, Java, SQL, Bash, R, C, and HTML. My experience includes providing technical support at the Rutgers Office of Information & Technology Help Desk and working on projects such as predictive modeling with neural networks and data manipulation tools. I'm passionate about problem-solving, data analysis, and continuous learning. I'm fluent in English and Arabic, and I'm excited about the opportunity to contribute my skills and enthusiasm to The City Tutors as a Software Engineer Intern. <br><br> Feel free to connect with me and share ideas about similar projects!
 
 
 
