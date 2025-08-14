@@ -1,6 +1,11 @@
 # 💫 About Me:
 
-Hi there 👋, <br><br>I'm a Computer Science graduate from Rutgers, The State University of New Jersey, with a strong background in programming languages like Python, Java, SQL, and HTML and enough experience to know make me want to learn more in Bash, R, C. My experience includes providing technical support at the Rutgers Office of Information & Technology Help Desk and working on projects such as predictive modeling with neural networks and data manipulation tools. I'm passionate about problem-solving, data analysis, and continuous learning. I'm fluent in English and Arabic. <br><br> Feel free to connect with me and share ideas about similar projects!
+
+Hi there 👋, <br><br>I'm a Computer Science graduate from Rutgers, The State University of New Jersey, with a strong background in data analytics. I enjoy Python, Java, SQL, and HTML and have done a few projects in Bash, R, C. 
+
+I worked as a software developer intern at The City Tutors, where I helped integrate an observability solution for monitoring performance using honeycomb.io and OpenTelemetry, developed the email verification system, and utilized Google OAuth API to simplify the sign-in for UX. <br><br> 
+Feel free to check out my webpage for more info!
+https://halfareed.github.io/
 
 
 
