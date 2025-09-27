@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-
-Hi there 👋, <br><br>I'm a Computer Science graduate from Rutgers, The State University of New Jersey, with a strong background in data analytics. I enjoy Python, Java, SQL, and HTML and have done a few projects in Bash, R, C. 
-
-I worked as a software developer intern at The City Tutors, where I helped integrate an observability solution for monitoring performance using honeycomb.io and OpenTelemetry, developed the email verification system, and utilized Google OAuth API to simplify the sign-in for UX. <br><br> 
-Feel free to check out my webpage for more info!
+👋 Check out my webpage for more info!
 https://halfareed.github.io/
+ <br><br> 👋 I'm a Computer Science graduate from Rutgers, The State University of New Jersey. Currently I'm studying Data Analytics Engineering at Northeastern Univeristy, Boston.
+
+I worked as a software developer intern at The City Tutors, where I helped integrate an observability solution for monitoring performance, developed the email verification system, and utilized Google OAuth API to simplify the sign-in for UX. <br><br> 
+
 
 
 
